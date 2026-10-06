@@ -198,6 +198,7 @@ input[type=range]{flex:1;min-width:160px;accent-color:var(--accent)}
 
 <div class="stage" id="stage"></div>
 <div class="controls">
+  <select id="stk" title="only the hands at these stakes"></select>
   <select id="who" title="only the hands this player took to the flop"></select>
   <select id="pick"></select>
   <button id="prevH" title="previous hand">⏮</button>
@@ -583,15 +584,23 @@ function sawFlop(h,name){
   }
   return post||allin||name in h.winners||!!h.bomb;
 }
-let WHO="",LIST=HANDS;
-const who=document.getElementById("who");
+let WHO="",STK="",LIST=HANDS;
+const who=document.getElementById("who"),stk=document.getElementById("stk");
+const AT=()=>STK?HANDS.filter(h=>h.stakes===STK):HANDS;
 {
-  const cnt={};
-  HANDS.forEach(h=>h.players.forEach(p=>{
+  const sc={};HANDS.forEach(h=>{sc[h.stakes]=(sc[h.stakes]||0)+1;});
+  stk.innerHTML=`<option value="">All stakes (${HANDS.length})</option>`+
+    Object.keys(sc).sort((a,b)=>parseFloat(a.split("/")[1])-parseFloat(b.split("/")[1])||a.localeCompare(b))
+      .map(k=>`<option value="${k}">${k} · ${sc[k]} hands</option>`).join("");
+}
+function fillWho(){
+  const cnt={},base=AT();
+  base.forEach(h=>h.players.forEach(p=>{
     if(sawFlop(h,p.name))cnt[p.name]=(cnt[p.name]||0)+1;}));
-  who.innerHTML=`<option value="">All hands (${HANDS.length})</option>`+
+  who.innerHTML=`<option value="">All hands (${base.length})</option>`+
     Object.keys(cnt).sort().map(n=>`<option value="${n.replace(/"/g,"&quot;")}">${n} · ${cnt[n]} postflop</option>`).join("");
 }
+fillWho();
 /* picker grouped by video */
 const pick=document.getElementById("pick");
 function fillPick(){
@@ -608,11 +617,13 @@ function fillPick(){
   });
 }
 function setWho(name){
-  WHO=name&&HANDS.some(h=>sawFlop(h,name))?name:"";
+  WHO=name&&AT().some(h=>sawFlop(h,name))?name:"";
   who.value=WHO;
-  LIST=WHO?HANDS.filter(h=>sawFlop(h,WHO)):HANDS;
+  LIST=WHO?AT().filter(h=>sawFlop(h,WHO)):AT();
   fillPick();
 }
+stk.onchange=()=>{STK=stk.value;fillWho();setWho(WHO);
+  if(LIST.length)setHand(LIST.some(h=>h.no===H.no)?H.no:LIST[LIST.length-1].no,0);};
 setWho("");
 who.onchange=()=>{setWho(who.value);
   // stay on this hand if the player is in it, else open their latest
