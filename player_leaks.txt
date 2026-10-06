@@ -63,14 +63,14 @@ Legend3412  (96 hands)
     EXPLOIT: when the raiser checks the flop, they check behind too: bet the turn yourself
     EVIDENCE: #5 #32 #35 #45 #46 #54 (+7 more)
     SEARCH: explore.html#r=Legend3412%7Csawt%7C0&r=Legend3412%7Cpfa%7C1&r=%7Cpfa%7C0&r=Legend3412%7Cprobet%7C1&misc=huf&hands=5%2C32%2C35%2C45%2C46%2C54%2C72%2C88%2C100%2C111%2C129%2C190%2C218
+  TOO MUCH: reaches showdown with the worst hand -- 54% (15/28) vs table 31%
+    EXPLOIT: they show down light: value bet them wider
+    EVIDENCE: #13 #17 #35 #54 #62 #72 (+9 more)
+    SEARCH: explore.html#r=Legend3412%7Csd%7C0&r=Legend3412%7Cworstr%7C0&hands=13%2C17%2C35%2C54%2C62%2C72%2C83%2C92%2C102%2C159%2C171%2C186%2C194%2C212%2C229
   TOO MUCH: probes the turn after the raiser checked the flop multiway -- 25% (2/8) vs table 7%
     EXPLOIT: their turn probes are a habit; raise them with equity
     EVIDENCE: #92 #93
     SEARCH: explore.html#r=Legend3412%7Csawt%7C0&r=Legend3412%7Cpfa%7C1&r=%7Cpfa%7C0&r=Legend3412%7Cprobet%7C0&misc=mwf&hands=92%2C93
-  TOO LITTLE: bets or raises the turn with a big draw -- 7% (1/14) vs table 24%
-    EXPLOIT: their turn draws call rather than raise: bet the turn, then bet the river when the draw misses
-    EVIDENCE: #13 #46 #54 #72 #88 #102 (+7 more)
-    SEARCH: explore.html#r=Legend3412%7Cdrawt%7C0&hands=13%2C46%2C54%2C72%2C88%2C102%2C111%2C159%2C190%2C194%2C218%2C223%2C229
 
 loquieroya  (87 hands)
 ----------------------
@@ -93,6 +93,10 @@ KerryLu  (85 hands)
     EXPLOIT: they rarely flat-call opens: when they do, expect a strong but non-3-bet range
     EVIDENCE: #5 #9 #27 #29 #46 #55 (+23 more)
     SEARCH: explore.html#r=KerryLu%7Cvsopen%7C0&r=KerryLu%7Ccoldcall%7C1&hands=5%2C9%2C27%2C29%2C46%2C55%2C59%2C62%2C73%2C77%2C81%2C88%2C92%2C93%2C97%2C100%2C111%2C112%2C116%2C117%2C119%2C142%2C162%2C171%2C186%2C200%2C244%2C246%2C258
+  TOO LITTLE: reaches showdown with the worst hand -- 10% (1/10) vs table 37%
+    EXPLOIT: their showdowns are strong: fold more against their calls
+    EVIDENCE: #35 #54 #58 #62 #72 #159 (+3 more)
+    SEARCH: explore.html#r=KerryLu%7Csd%7C0&r=KerryLu%7Cworstr%7C1&hands=35%2C54%2C58%2C62%2C72%2C159%2C190%2C194%2C239
 
 ThePacMan  (66 hands)
 ---------------------
@@ -132,6 +136,10 @@ how muchie  (56 hands)
 
 konar  (54 hands)
 -----------------
+  TOO LITTLE: reaches showdown with the worst hand -- 11% (1/9) vs table 36%
+    EXPLOIT: their showdowns are strong: fold more against their calls
+    EVIDENCE: #42 #53 #99 #214 #222 #242 (+2 more)
+    SEARCH: explore.html#r=konar%7Csd%7C0&r=konar%7Cworstr%7C1&hands=42%2C53%2C99%2C214%2C222%2C242%2C253%2C257
   TOO LITTLE: folds to a flop bet -- 33% (3/9) vs table 58%
     EXPLOIT: do not bluff the flop; bet your value bigger
     EVIDENCE: #42 #53 #86 #206 #214 #237

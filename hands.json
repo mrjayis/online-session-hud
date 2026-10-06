@@ -357,7 +357,12 @@
     "name": "Lia Park",
     "pos": "ST",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Th",
+     "9h",
+     "8c",
+     "6s"
+    ],
     "stack": 192,
     "final_stack": 393,
     "win": 393,
@@ -3436,7 +3441,12 @@
     "name": "Forgivenofmy...",
     "pos": "BU",
     "slot": 6,
-    "cards": null,
+    "cards": [
+     "Ac",
+     "Qh",
+     "Jc",
+     "8c"
+    ],
     "stack": 1045,
     "final_stack": 1073,
     "win": 38,
@@ -3806,7 +3816,12 @@
     "name": "Sadzorla",
     "pos": "BU",
     "slot": 6,
-    "cards": null,
+    "cards": [
+     "8d",
+     "6s",
+     "8s",
+     "Kc"
+    ],
     "stack": 400,
     "final_stack": 469,
     "win": 127,
@@ -5922,13 +5937,18 @@
     "name": "ThePacMan",
     "pos": "ST",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Ah",
+     "Qh",
+     "7c",
+     "6c"
+    ],
     "stack": 559.92,
-    "final_stack": 415.92,
-    "win": null,
-    "win_t": null,
-    "net": -144,
-    "adjusted_net": -144,
+    "final_stack": 807.92,
+    "win": 392,
+    "win_t": 431.8,
+    "net": 248,
+    "adjusted_net": 248,
     "first_t": 363.6,
     "last_t": 431.8
    },
@@ -6091,7 +6111,9 @@
   "pot_final": 392,
   "pot_won": 392,
   "pot_first": 28,
-  "winners": {},
+  "winners": {
+   "ThePacMan": 392
+  },
   "showdown": true,
   "alive_at_end": [
    "ThePacMan",
@@ -7030,7 +7052,12 @@
     "name": "KerryLu",
     "pos": "HJ",
     "slot": 2,
-    "cards": null,
+    "cards": [
+     "7s",
+     "9s",
+     "Kh",
+     "Js"
+    ],
     "stack": 120,
     "final_stack": 187,
     "win": 128,
@@ -9831,7 +9858,12 @@
     "name": "Legend3412",
     "pos": "HJ",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Ac",
+     "Qh",
+     "Tc",
+     "6c"
+    ],
     "stack": 268.49,
     "final_stack": 289.49,
     "win": 30,
@@ -10963,7 +10995,12 @@
     "name": "TurkishNM",
     "pos": "HJ",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "8c",
+     "6d",
+     "4d",
+     "3s"
+    ],
     "stack": 400,
     "final_stack": 836,
     "win": 836,
@@ -12023,7 +12060,12 @@
     "name": "Legend3412",
     "pos": "CO",
     "slot": 3,
-    "cards": null,
+    "cards": [
+     "Kd",
+     "8d",
+     "Kh",
+     "Qd"
+    ],
     "stack": 216.37,
     "final_stack": 419.37,
     "win": 399,
@@ -17363,7 +17405,12 @@
     "name": "TurkishNM",
     "pos": "+1",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Ah",
+     "Js",
+     "Th",
+     "8s"
+    ],
     "stack": 1260,
     "final_stack": 1236,
     "win": null,
@@ -17858,7 +17905,12 @@
     "name": "Legend3412",
     "pos": "CO",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Kh",
+     "Jd",
+     "9s",
+     "5s"
+    ],
     "stack": 265.25,
     "final_stack": 356.25,
     "win": 146,
@@ -20090,7 +20142,12 @@
     "name": "how muchie",
     "pos": "SB",
     "slot": 4,
-    "cards": null,
+    "cards": [
+     "5h",
+     "4d",
+     "6s",
+     "As"
+    ],
     "stack": 400,
     "final_stack": 411,
     "win": 19,
@@ -25908,7 +25965,12 @@
     "name": "Flawski101",
     "pos": "CO",
     "slot": 4,
-    "cards": null,
+    "cards": [
+     "Th",
+     "8d",
+     "3s",
+     "As"
+    ],
     "stack": 213.68,
     "final_stack": 282.68,
     "win": 130,
@@ -31667,7 +31729,12 @@
     "name": "Oleboy",
     "pos": "BB",
     "slot": 2,
-    "cards": null,
+    "cards": [
+     "7d",
+     "Js",
+     "3d",
+     "Td"
+    ],
     "stack": 452.56,
     "final_stack": 926.12,
     "win": 926.12,
@@ -35703,7 +35770,12 @@
     "name": "Blanco Basura",
     "pos": "CO",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "9s",
+     "8c",
+     "7s",
+     "4c"
+    ],
     "stack": 97.12,
     "final_stack": 120.12,
     "win": 35,
@@ -36823,7 +36895,12 @@
     "name": "Hijacks",
     "pos": "CO",
     "slot": 3,
-    "cards": null,
+    "cards": [
+     "Ad",
+     "Jh",
+     "8d",
+     "6h"
+    ],
     "stack": 157,
     "final_stack": 212,
     "win": 80,
@@ -40703,7 +40780,12 @@
     "name": "ValleyArm5048",
     "pos": "BB",
     "slot": 2,
-    "cards": null,
+    "cards": [
+     "Jc",
+     "Jd",
+     "6d",
+     "3c"
+    ],
     "stack": 449.17,
     "final_stack": 458.17,
     "win": 14,
@@ -41239,7 +41321,12 @@
     "name": "WhaleBait69",
     "pos": "BU",
     "slot": 4,
-    "cards": null,
+    "cards": [
+     "9c",
+     "Qs",
+     "Ac",
+     "Ah"
+    ],
     "stack": 496.96,
     "final_stack": 931.93,
     "win": 852.94,
@@ -42312,7 +42399,12 @@
     "name": "ForestFace62..",
     "pos": "BB",
     "slot": 1,
-    "cards": null,
+    "cards": [
+     "Ah",
+     "5h",
+     "8s",
+     "Js"
+    ],
     "stack": 395,
     "final_stack": 413,
     "win": 30,
@@ -46090,7 +46182,12 @@
     "name": "Hijacks",
     "pos": "SB",
     "slot": 4,
-    "cards": null,
+    "cards": [
+     "Qs",
+     "7h",
+     "5d",
+     "3s"
+    ],
     "stack": 539.44,
     "final_stack": 605.44,
     "win": 127,
@@ -46237,7 +46334,12 @@
     "name": "WillyWonka69",
     "pos": "ST",
     "slot": 1,
-    "cards": null,
+    "cards": [
+     "Ts",
+     "8c",
+     "6c",
+     "Js"
+    ],
     "stack": 337.25,
     "final_stack": 357.25,
     "win": 33,
@@ -46763,7 +46865,12 @@
     "name": "BeastlyOne",
     "pos": "UG",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Jh",
+     "3s",
+     "Ad",
+     "As"
+    ],
     "stack": 347.44,
     "final_stack": 0,
     "win": null,
@@ -48657,7 +48764,12 @@
     "name": "ForestFace62..",
     "pos": "SB",
     "slot": 1,
-    "cards": null,
+    "cards": [
+     "4h",
+     "Ts",
+     "9h",
+     "5s"
+    ],
     "stack": 419.84,
     "final_stack": 500.84,
     "win": 156,
@@ -51743,7 +51855,12 @@
     "name": "konar",
     "pos": "BB",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Qh",
+     "Jh",
+     "5h",
+     "3s"
+    ],
     "stack": 1725,
     "final_stack": 1728,
     "win": 6,
@@ -52143,7 +52260,12 @@
     "name": "konar",
     "pos": "BB",
     "slot": 5,
-    "cards": null,
+    "cards": [
+     "Ac",
+     "7s",
+     "5c",
+     "2h"
+    ],
     "stack": 1690,
     "final_stack": 1695,
     "win": 10,

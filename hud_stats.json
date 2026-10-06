@@ -308,11 +308,11 @@
   "cbet": null,
   "saw_flop_pct": 18.2,
   "wtsd": 41.7,
-  "wsd": 20.0,
-  "wins": 2,
+  "wsd": 40.0,
+  "wins": 3,
   "allins": 1,
-  "net": -1253.92,
-  "biggest_win": 39,
+  "net": -861.92,
+  "biggest_win": 392,
   "limp": 10.6,
   "rfi": {
    "+1": [

@@ -41,7 +41,7 @@ Hand #4  (video 0:00:01)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   MacPoker1151 (BU) $748.1  [K♠ 10♦ 4♦ 2♠]
   OMGNFD (SB) $1,153
   ThePacMan (BB) $408
-  Lia Park (ST) $192
+  Lia Park (ST) $192  [10♥ 9♥ 8♣ 6♠]
   Sadzorla (UG) $400
   Mr Lobster (+1) $454.68
   --- Preflop ---
@@ -403,7 +403,7 @@ Hand #18  (video 0:03:13)  Pot-Limit Omaha $2/$4/$8  ** $8 STRADDLE **
   ryl775 (+1) $200
   YouGotGot2 (HJ) $1,337
   ThePacMan (CO) $573.92
-  Forgivenofmy... (BU) $1,045
+  Forgivenofmy... (BU) $1,045  [A♣ Q♥ J♣ 8♣]
   Dr Nick Riviera (SB) $3,376
   --- Preflop ---
     Poker769 straddles for $8
@@ -441,7 +441,7 @@ Hand #20  (video 0:03:31)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   OMGNFD (+1) $1,148
   ThePacMan (HJ) $401
   Lia Park (CO) $396
-  Sadzorla (BU) $400
+  Sadzorla (BU) $400  [8♦ 6♠ 8♠ K♣]
   Mr Lobster (SB) $215
   --- Preflop ---
     Booyakasha straddles for $4
@@ -689,7 +689,7 @@ Hand #30  (video 0:06:03)  Pot-Limit Omaha $2/$4/$8  ** $8 STRADDLE **
   Poker769 (BU) $1,792
   Hydration (SB) $1,493
   YouGotGot2 (BB) $1,331
-  ThePacMan (ST) $559.92
+  ThePacMan (ST) $559.92  [A♥ Q♥ 7♣ 6♣]
   Forgivenofmy... (UG) $893.52  [Q♦ J♦ 10♠ 3♠]
   Dr Nick Riviera (HJ) $3,559
   --- Preflop ---
@@ -713,9 +713,9 @@ Hand #30  (video 0:06:03)  Pot-Limit Omaha $2/$4/$8  ** $8 STRADDLE **
   --- River ---  [K♣ Q♣ Q♠ 5♣ 6♦]
     ThePacMan checks
     Forgivenofmy... checks
-  Final pot $392 (winner not captured)
+  ThePacMan wins +$392 (pot $392)
   Showdown.
-  Net: Downswingdr -$2  Hydration -$4  YouGotGot2 -$6  Poker769 -$46  Dr Nick Riviera -$46  ThePacMan -$144  Forgivenofmy... -$144
+  Net: ThePacMan +$248  Downswingdr -$2  Hydration -$4  YouGotGot2 -$6  Poker769 -$46  Dr Nick Riviera -$46  Forgivenofmy... -$144
 
 Hand #31  (video 0:06:08)  Pot-Limit Omaha $1/$2
   Downswingdr (BB) $474.04  [3♦ 6♥ 8♠ K♥]
@@ -825,7 +825,7 @@ Hand #34  (video 0:06:45)  Pot-Limit Omaha $1/$2
 Hand #35  (video 0:06:55)  Pot-Limit Omaha $1/$2
   Downswingdr (BB) $725.48  [2♥ 2♠ 5♥ K♣]
   Nazreads (UG) $211.84
-  KerryLu (HJ) $120
+  KerryLu (HJ) $120  [7♠ 9♠ K♥ J♠]
   SHADOWMO.. (CO) $1,024
   how muchie (BU) $400
   Legend3412 (SB) $181  [A♠ J♣ 10♠ 5♦]
@@ -1166,7 +1166,7 @@ Hand #51  (video 0:10:33)  Pot-Limit Omaha $1/$2
   KerryLu (SB) $177.88
   SHADOWMO.. (BB) $1,044
   how muchie (UG) $400
-  Legend3412 (HJ) $268.49
+  Legend3412 (HJ) $268.49  [A♣ Q♥ 10♣ 6♣]
   --- Preflop ---
     how muchie folds
     Legend3412 calls $2
@@ -1303,7 +1303,7 @@ Hand #56  (video 0:11:39)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   MacPoker1151 (ST) $689.1
   OMGNFD (UG) $1,422
   ThePacMan (+1) $400
-  TurkishNM (HJ) $400
+  TurkishNM (HJ) $400  [8♣ 6♦ 4♦ 3♠]
   Sadzorla (CO) $714.28
   Mr Lobster (BU) $200
   --- Preflop ---
@@ -1432,7 +1432,7 @@ Hand #61  (video 0:12:58)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
 Hand #62  (video 0:13:12)  Pot-Limit Omaha $1/$2
   Downswingdr (BB) $478.84  [2♣ 2♠ 4♥ 9♦]
   LandShark98 (HJ) $91.68
-  Legend3412 (CO) $216.37
+  Legend3412 (CO) $216.37  [K♦ 8♦ K♥ Q♦]
   how muchie (BU) $596.44
   KerryLu (SB) $196  [A♥ A♦ 8♥ 6♦]
   --- Preflop ---
@@ -2069,7 +2069,7 @@ Hand #90  (video 0:20:27)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   MacPoker1151 (BB) $400
   ryl775 (ST) $200  [K♦ Q♦ 5♠ 5♥]
   ThePacMan (UG) $400
-  TurkishNM (+1) $1,260
+  TurkishNM (+1) $1,260  [A♥ J♠ 10♥ 8♠]
   Sadzorla (HJ) $683.48  [J♥ 9♠ 9♥ 8♥]
   Mr Lobster (CO) $299.44
   --- Preflop ---
@@ -2127,7 +2127,7 @@ Hand #92  (video 0:20:53)  Pot-Limit Omaha $1/$2
   KerryLu (BB) $224.8
   SHADOWMO.. (UG) $881.92  [A♣ J♥ 10♣ 8♠]
   how muchie (HJ) $400
-  Legend3412 (CO) $265.25
+  Legend3412 (CO) $265.25  [K♥ J♦ 9♠ 5♠]
   --- Preflop ---
     SHADOWMO.. raises to $6
     how muchie folds
@@ -2395,7 +2395,7 @@ Hand #102  (video 0:23:04)  Pot-Limit Omaha $1/$2
   Downswingdr (HJ) $723.88  [6♦ 7♥ Q♦ 10♣]
   Nazreads (CO) $518.52
   KerryLu (BU) $189.8
-  how muchie (SB) $400
+  how muchie (SB) $400  [5♥ 4♦ 6♠ A♠]
   Legend3412 (BB) $357.97  [Q♠ 7♦ 5♦ 4♠]
   --- Preflop ---
     Downswingdr folds
@@ -3081,7 +3081,7 @@ Hand #132  (video 0:30:16)  Pot-Limit Omaha $2/$4
   Poker769 (BB) $1,646
   ryl775 (UG) $198
   Dr Nick Riviera (HJ) $1,663
-  Flawski101 (CO) $213.68
+  Flawski101 (CO) $213.68  [10♥ 8♦ 3♠ A♠]
   konar (BU) $418.32
   --- Preflop ---
     ryl775 folds
@@ -3757,7 +3757,7 @@ Hand #159  (video 0:36:50)  Pot-Limit Omaha $1/$2
 Hand #160  (video 0:36:52)  Pot-Limit Omaha $1/$2
   Downswingdr (BU) $692.4  [4♦ A♦ K♠ 10♣]
   Nazreads (SB) $737.17
-  Oleboy (BB) $452.56
+  Oleboy (BB) $452.56  [7♦ J♠ 3♦ 10♦]
   loquieroya (UG) $400
   ryl775 (HJ) $200
   Legend3412 (CO) $446.83
@@ -4240,7 +4240,7 @@ Hand #179  (video 0:42:09)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   ValleyArm5048 (UG) $289.16
   ryl775 (+1) $200
   ThePacMan (HJ) $400
-  Blanco Basura (CO) $97.12
+  Blanco Basura (CO) $97.12  [9♠ 8♣ 7♠ 4♣]
   Sadzorla (BU) $1,184
   Mr Lobster (SB) $428.08
   --- Preflop ---
@@ -4375,7 +4375,7 @@ Hand #184  (video 0:43:33)  Pot-Limit Omaha $2/$4
   Downswingdr (BB) $902  [3♠ A♣ Q♦ 10♣]
   Poker769 (UG) $1,611
   ryl775 (HJ) $544
-  Hijacks (CO) $157
+  Hijacks (CO) $157  [A♦ J♥ 8♦ 6♥]
   Flawski101 (BU) $323.16
   konar (SB) $400
   --- Preflop ---
@@ -4837,7 +4837,7 @@ Hand #201  (video 0:47:50)  Pot-Limit Omaha $2/$4
 
 Hand #202  (video 0:48:03)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   Downswingdr (SB) $400  [2♦ 4♠ 7♠ 9♣]
-  ValleyArm5048 (BB) $449.17
+  ValleyArm5048 (BB) $449.17  [J♣ J♦ 6♦ 3♣]
   ryl775 (ST) $200
   ThePacMan (CO) $400
   Sadzorla (BU) $1,035
@@ -4895,7 +4895,7 @@ Hand #205  (video 0:48:44)  Pot-Limit Omaha $1/$2
   ForestFace62.. (UG) $396
   loquieroya (HJ) $417.97  [10♥ 10♦ 2♥ 2♦]
   Legend3412 (CO) $264.2
-  WhaleBait69 (BU) $496.96
+  WhaleBait69 (BU) $496.96  [9♣ Q♠ A♣ A♥]
   KerryLu (SB) $174.68
   --- Preflop ---
     ForestFace62.. folds
@@ -5021,7 +5021,7 @@ Hand #211  (video 0:50:01)  Pot-Limit Omaha $2/$4
 
 Hand #212  (video 0:50:18)  Pot-Limit Omaha $1/$2
   Downswingdr (SB) $448.32  [5♠ 6♦ 7♥ 10♠]
-  ForestFace62.. (BB) $395
+  ForestFace62.. (BB) $395  [A♥ 5♥ 8♠ J♠]
   loquieroya (UG) $400
   Legend3412 (HJ) $253.2  [10♣ 3♠ 3♥ 2♠]
   WhaleBait69 (CO) $925.93
@@ -5479,7 +5479,7 @@ Hand #232  (video 0:54:32)  Pot-Limit Omaha $1/$2
 
 Hand #233  (video 0:54:55)  Pot-Limit Omaha $2/$4
   Downswingdr (BU) $976  [6♠ J♣ K♦ Q♦]
-  Hijacks (SB) $539.44
+  Hijacks (SB) $539.44  [Q♠ 7♥ 5♦ 3♠]
   konar (BB) $442.32
   --- Preflop ---
     Downswingdr raises to $12
@@ -5500,7 +5500,7 @@ Hand #233  (video 0:54:55)  Pot-Limit Omaha $2/$4
 
 Hand #234  (video 0:55:05)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
   Downswingdr (BB) $465.52  [5♣ K♠ Q♥ 10♣]
-  WillyWonka69 (ST) $337.25
+  WillyWonka69 (ST) $337.25  [10♠ 8♣ 6♣ J♠]
   TwoKiss (UG) $518.69
   Poker769 (HJ) $445.82
   ThePacMan (CO) $3,312
@@ -5561,7 +5561,7 @@ Hand #236  (video 0:55:28)  Pot-Limit Omaha $1/$2
   Oleboy (BU) $381.12
   loquieroya (SB) $400  [A♥ 9♥ 8♣ 5♣]
   ryl775 (BB) $343
-  BeastlyOne (UG) $347.44
+  BeastlyOne (UG) $347.44  [J♥ 3♠ A♦ A♠]
   --- Preflop ---
     BeastlyOne raises to $13
     Downswingdr folds
@@ -5797,7 +5797,7 @@ Hand #245  (video 0:57:52)  Pot-Limit Omaha $1/$2/$4  ** $4 STRADDLE **
 
 Hand #246  (video 0:58:09)  Pot-Limit Omaha $1/$2
   Downswingdr (BU) $400  [3♣ 3♦ 5♥ 8♥]
-  ForestFace62.. (SB) $419.84
+  ForestFace62.. (SB) $419.84  [4♥ 10♠ 9♥ 5♠]
   loquieroya (BB) $400
   Legend3412 (UG) $318.36
   WhaleBait69 (HJ) $899.93
@@ -6178,7 +6178,7 @@ Hand #261  (video 1:01:55)  Pot-Limit Omaha $1/$2
 
 Hand #262  (video 1:02:03)  Pot-Limit Omaha $2/$4
   Downswingdr (SB) $800  [2♥ 4♠ J♣ 10♥]
-  konar (BB) $1,725
+  konar (BB) $1,725  [Q♥ J♥ 5♥ 3♠]
   --- Preflop ---
     Downswingdr folds
   konar wins +$6 (pot $6)
@@ -6228,7 +6228,7 @@ Hand #264  (video 1:02:53)  Pot-Limit Omaha $1/$2
 
 Hand #265  (video 1:03:04)  Pot-Limit Omaha $2/$4
   Downswingdr (SB) $835  [3♥ 5♦ 9♥ J♣]
-  konar (BB) $1,690
+  konar (BB) $1,690  [A♣ 7♠ 5♣ 2♥]
   --- Preflop ---
     Downswingdr calls $2
     konar checks
