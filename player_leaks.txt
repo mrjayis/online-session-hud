@@ -1,0 +1,213 @@
+PLAYER LEAKS -- automated, results-blind, from the hand search
+==============================================================
+
+Each read is a frequency the hand search can reproduce, set against
+the table in the same spot (all players in this session pooled). A line
+appears only with 8+ opportunities, at least 12 points off the
+table, and a confidence interval clear of it. No money is used.
+Citations are master hand numbers; TOO MUCH cites hands where he did
+it, TOO LITTLE cites hands where they had the chance and did not.
+
+A player who also appears as a CUT ("-- <game> only") is measured
+there against that game's table alone, not against the whole session:
+a baseline should come from the table he actually sat at. The two
+sections are the same player over different samples, so they can
+disagree -- that disagreement is the read.
+
+
+Downswingdr  (253 hands)
+-----------------------
+  TOO LITTLE: folds to a river bet -- 25% (2/8) vs table 60%
+    EXPLOIT: value bet the river thin and never bluff it
+    EVIDENCE: #46 #218 #228 #233 #239 #250
+    SEARCH: explore.html#r=Downswingdr%7Cfacedr%7C0&r=Downswingdr%7Cfoldr%7C1&hands=46%2C218%2C228%2C233%2C239%2C250
+  TOO LITTLE: c-bets the flop as the preflop raiser heads-up -- 33% (4/12) vs table 60%
+    EXPLOIT: when they check the flop as the raiser, stab -- they give up on their misses
+    EVIDENCE: #45 #79 #125 #163 #218 #233 (+2 more)
+    SEARCH: explore.html#r=Downswingdr%7Cpfa%7C0&r=Downswingdr%7Csawf%7C0&r=Downswingdr%7Cdonkf%7C1&r=Downswingdr%7Ccbf%7C1&misc=huf&hands=45%2C79%2C125%2C163%2C218%2C233%2C250%2C255
+  TOO MUCH: folds to a flop bet on an all-low flop -- 78% (7/9) vs table 52%
+    EXPLOIT: bet flops at them whenever checked to; they fold
+    EVIDENCE: #20 #79 #89 #94 #130 #184 (+1 more)
+    SEARCH: explore.html#r=Downswingdr%7Cfacedf%7C0&r=Downswingdr%7Cfoldf%7C0&tex=all-low&hands=20%2C79%2C89%2C94%2C130%2C184%2C259
+  TOO MUCH: bets or raises the turn with a big draw -- 33% (6/18) vs table 16%
+    EXPLOIT: they semi-bluff the turn; call with made hands and let the river decide
+    EVIDENCE: #13 #45 #146 #165 #223 #249
+    SEARCH: explore.html#r=Downswingdr%7Cdrawt%7C0&hands=13%2C45%2C146%2C165%2C223%2C249
+  TOO LITTLE: c-bets the flop as the preflop raiser -- 33% (7/21) vs table 50%
+    EXPLOIT: when they check the flop as the raiser, stab -- they give up on their misses
+    EVIDENCE: #45 #79 #94 #125 #163 #184 (+8 more)
+    SEARCH: explore.html#r=Downswingdr%7Cpfa%7C0&r=Downswingdr%7Csawf%7C0&r=Downswingdr%7Cdonkf%7C1&r=Downswingdr%7Ccbf%7C1&hands=45%2C79%2C94%2C125%2C163%2C184%2C203%2C218%2C222%2C233%2C250%2C253%2C255%2C259
+
+ryl775  (116 hands)
+------------------
+  TOO LITTLE: cold-calls an open -- 16% (8/49) vs table 28%
+    EXPLOIT: they rarely flat-call opens: when they do, expect a strong but non-3-bet range
+    EVIDENCE: #1 #6 #11 #15 #47 #71 (+35 more)
+    SEARCH: explore.html#r=ryl775%7Cvsopen%7C0&r=ryl775%7Ccoldcall%7C1&hands=1%2C6%2C11%2C15%2C47%2C71%2C75%2C80%2C94%2C95%2C98%2C101%2C109%2C115%2C123%2C125%2C136%2C138%2C153%2C154%2C155%2C163%2C165%2C167%2C168%2C169%2C175%2C176%2C180%2C189%2C192%2C195%2C197%2C198%2C201%2C202%2C203%2C214%2C217%2C221%2C241
+
+Legend3412  (96 hands)
+----------------------
+  TOO MUCH: cold-calls an open -- 74% (26/35) vs table 24%
+    EXPLOIT: isolate bigger; they call opens too often and play a wide, capped range postflop
+    EVIDENCE: #9 #32 #35 #41 #54 #85 (+20 more)
+    SEARCH: explore.html#r=Legend3412%7Cvsopen%7C0&r=Legend3412%7Ccoldcall%7C0&hands=9%2C32%2C35%2C41%2C54%2C85%2C88%2C89%2C92%2C93%2C105%2C108%2C111%2C127%2C129%2C130%2C139%2C143%2C153%2C156%2C160%2C162%2C190%2C200%2C205%2C229
+  TOO MUCH: limps when first in -- 56% (24/43) vs table 12%
+    EXPLOIT: raise their limps in position
+    EVIDENCE: #5 #13 #17 #46 #51 #59 (+18 more)
+    SEARCH: explore.html#r=Legend3412%7Cfirstin%7C0&r=Legend3412%7Climp%7C0&hands=5%2C13%2C17%2C46%2C51%2C59%2C72%2C76%2C77%2C96%2C97%2C100%2C118%2C124%2C137%2C147%2C148%2C157%2C166%2C212%2C218%2C235%2C261%2C266
+  TOO MUCH: folds to a flop bet on an ace-high flop -- 88% (7/8) vs table 59%
+    EXPLOIT: bet flops at them whenever checked to; they fold
+    EVIDENCE: #9 #77 #105 #108 #124 #153 (+1 more)
+    SEARCH: explore.html#r=Legend3412%7Cfacedf%7C0&r=Legend3412%7Cfoldf%7C0&tex=ace-high&hands=9%2C77%2C105%2C108%2C124%2C153%2C162
+  TOO LITTLE: probes the turn after the raiser checked the flop heads-up -- 0% (0/13) vs table 26%
+    EXPLOIT: when the raiser checks the flop, they check behind too: bet the turn yourself
+    EVIDENCE: #5 #32 #35 #45 #46 #54 (+7 more)
+    SEARCH: explore.html#r=Legend3412%7Csawt%7C0&r=Legend3412%7Cpfa%7C1&r=%7Cpfa%7C0&r=Legend3412%7Cprobet%7C1&misc=huf&hands=5%2C32%2C35%2C45%2C46%2C54%2C72%2C88%2C100%2C111%2C129%2C190%2C218
+  TOO MUCH: probes the turn after the raiser checked the flop multiway -- 25% (2/8) vs table 7%
+    EXPLOIT: their turn probes are a habit; raise them with equity
+    EVIDENCE: #92 #93
+    SEARCH: explore.html#r=Legend3412%7Csawt%7C0&r=Legend3412%7Cpfa%7C1&r=%7Cpfa%7C0&r=Legend3412%7Cprobet%7C0&misc=mwf&hands=92%2C93
+  TOO LITTLE: bets or raises the turn with a big draw -- 7% (1/14) vs table 24%
+    EXPLOIT: their turn draws call rather than raise: bet the turn, then bet the river when the draw misses
+    EVIDENCE: #13 #46 #54 #72 #88 #102 (+7 more)
+    SEARCH: explore.html#r=Legend3412%7Cdrawt%7C0&hands=13%2C46%2C54%2C72%2C88%2C102%2C111%2C159%2C190%2C194%2C218%2C223%2C229
+
+loquieroya  (87 hands)
+----------------------
+  TOO LITTLE: folds to a flop bet -- 25% (2/8) vs table 59%
+    EXPLOIT: do not bluff the flop; bet your value bigger
+    EVIDENCE: #88 #111 #148 #177 #200 #205
+    SEARCH: explore.html#r=loquieroya%7Cfacedf%7C0&r=loquieroya%7Cfoldf%7C1&hands=88%2C111%2C148%2C177%2C200%2C205
+  TOO LITTLE: cold-calls an open -- 6% (2/33) vs table 29%
+    EXPLOIT: they rarely flat-call opens: when they do, expect a strong but non-3-bet range
+    EVIDENCE: #100 #105 #108 #114 #117 #127 (+25 more)
+    SEARCH: explore.html#r=loquieroya%7Cvsopen%7C0&r=loquieroya%7Ccoldcall%7C1&hands=100%2C105%2C108%2C114%2C117%2C127%2C129%2C130%2C136%2C143%2C147%2C151%2C153%2C168%2C171%2C174%2C185%2C186%2C187%2C190%2C204%2C218%2C221%2C229%2C232%2C236%2C241%2C246%2C254%2C255%2C264
+  TOO LITTLE: limps when first in -- 0% (0/38) vs table 16%
+    EXPLOIT: they never limp: a call from them preflop is a cold-call of a raise, a real range
+    EVIDENCE: #85 #88 #93 #97 #106 #111 (+32 more)
+    SEARCH: explore.html#r=loquieroya%7Cfirstin%7C0&r=loquieroya%7Climp%7C1&hands=85%2C88%2C93%2C97%2C106%2C111%2C112%2C116%2C118%2C122%2C134%2C137%2C139%2C144%2C150%2C156%2C157%2C160%2C162%2C166%2C176%2C178%2C182%2C193%2C196%2C199%2C200%2C205%2C210%2C212%2C225%2C235%2C239%2C244%2C249%2C258%2C260%2C261
+
+KerryLu  (85 hands)
+-------------------
+  TOO LITTLE: cold-calls an open -- 0% (0/29) vs table 29%
+    EXPLOIT: they rarely flat-call opens: when they do, expect a strong but non-3-bet range
+    EVIDENCE: #5 #9 #27 #29 #46 #55 (+23 more)
+    SEARCH: explore.html#r=KerryLu%7Cvsopen%7C0&r=KerryLu%7Ccoldcall%7C1&hands=5%2C9%2C27%2C29%2C46%2C55%2C59%2C62%2C73%2C77%2C81%2C88%2C92%2C93%2C97%2C100%2C111%2C112%2C116%2C117%2C119%2C142%2C162%2C171%2C186%2C200%2C244%2C246%2C258
+
+ThePacMan  (66 hands)
+---------------------
+  TOO LITTLE: opens when first in -- 7% (2/30) vs table 21%
+    EXPLOIT: their opens are tight; respect them and 3-bet only for value
+    EVIDENCE: #7 #16 #18 #20 #21 #24 (+22 more)
+    SEARCH: explore.html#r=ThePacMan%7Cfirstin%7C0&r=ThePacMan%7Copen%7C1&hands=7%2C16%2C18%2C20%2C21%2C24%2C26%2C44%2C48%2C52%2C84%2C90%2C104%2C123%2C135%2C145%2C149%2C154%2C179%2C183%2C189%2C202%2C216%2C234%2C238%2C245%2C251%2C267
+
+Nazreads  (63 hands)
+--------------------
+  TOO MUCH: c-bets the flop as the preflop raiser -- 88% (7/8) vs table 46%
+    EXPLOIT: check-raise their flop c-bets and float them in position; the bet says little
+    EVIDENCE: #5 #9 #22 #55 #130 #185 (+1 more)
+    SEARCH: explore.html#r=Nazreads%7Cpfa%7C0&r=Nazreads%7Csawf%7C0&r=Nazreads%7Cdonkf%7C1&r=Nazreads%7Ccbf%7C0&hands=5%2C9%2C22%2C55%2C130%2C185%2C232
+  TOO MUCH: opens when first in -- 34% (10/29) vs table 20%
+    EXPLOIT: 3-bet them wider; their opens are frequent
+    EVIDENCE: #9 #27 #29 #55 #81 #117 (+4 more)
+    SEARCH: explore.html#r=Nazreads%7Cfirstin%7C0&r=Nazreads%7Copen%7C0&hands=9%2C27%2C29%2C55%2C81%2C117%2C119%2C185%2C225%2C232
+
+Poker769  (58 hands)
+--------------------
+  TOO MUCH: opens when first in -- 38% (9/24) vs table 20%
+    EXPLOIT: 3-bet them wider; their opens are frequent
+    EVIDENCE: #8 #47 #66 #71 #155 #180 (+3 more)
+    SEARCH: explore.html#r=Poker769%7Cfirstin%7C0&r=Poker769%7Copen%7C0&hands=8%2C47%2C66%2C71%2C155%2C180%2C198%2C201%2C227
+
+how muchie  (56 hands)
+----------------------
+  TOO MUCH: folds to a flop bet -- 88% (7/8) vs table 56%
+    EXPLOIT: bet flops at them whenever checked to; they fold
+    EVIDENCE: #23 #55 #59 #68 #81 #89 (+1 more)
+    SEARCH: explore.html#r=how+muchie%7Cfacedf%7C0&r=how+muchie%7Cfoldf%7C0&hands=23%2C55%2C59%2C68%2C81%2C89%2C96
+  TOO LITTLE: opens when first in -- 5% (1/19) vs table 21%
+    EXPLOIT: their opens are tight; respect them and 3-bet only for value
+    EVIDENCE: #13 #17 #19 #27 #37 #43 (+12 more)
+    SEARCH: explore.html#r=how+muchie%7Cfirstin%7C0&r=how+muchie%7Copen%7C1&hands=13%2C17%2C19%2C27%2C37%2C43%2C45%2C46%2C51%2C57%2C63%2C67%2C73%2C79%2C82%2C102%2C106%2C114
+
+konar  (54 hands)
+-----------------
+  TOO LITTLE: folds to a flop bet -- 33% (3/9) vs table 58%
+    EXPLOIT: do not bluff the flop; bet your value bigger
+    EVIDENCE: #42 #53 #86 #206 #214 #237
+    SEARCH: explore.html#r=konar%7Cfacedf%7C0&r=konar%7Cfoldf%7C1&hands=42%2C53%2C86%2C206%2C214%2C237
+  TOO MUCH: opens when first in -- 42% (8/19) vs table 20%
+    EXPLOIT: 3-bet them wider; their opens are frequent
+    EVIDENCE: #86 #131 #222 #230 #231 #240 (+2 more)
+    SEARCH: explore.html#r=konar%7Cfirstin%7C0&r=konar%7Copen%7C0&hands=86%2C131%2C222%2C230%2C231%2C240%2C257%2C263
+  TOO LITTLE: limps when first in -- 0% (0/19) vs table 15%
+    EXPLOIT: they never limp: a call from them preflop is a cold-call of a raise, a real range
+    EVIDENCE: #66 #86 #94 #107 #121 #131 (+13 more)
+    SEARCH: explore.html#r=konar%7Cfirstin%7C0&r=konar%7Climp%7C1&hands=66%2C86%2C94%2C107%2C121%2C131%2C146%2C173%2C198%2C201%2C211%2C219%2C222%2C230%2C231%2C240%2C248%2C257%2C263
+
+Sadzorla  (46 hands)
+--------------------
+  TOO LITTLE: folds to a flop bet -- 9% (1/11) vs table 60%
+    EXPLOIT: do not bluff the flop; bet your value bigger
+    EVIDENCE: #20 #44 #48 #61 #84 #95 (+4 more)
+    SEARCH: explore.html#r=Sadzorla%7Cfacedf%7C0&r=Sadzorla%7Cfoldf%7C1&hands=20%2C44%2C48%2C61%2C84%2C95%2C110%2C120%2C167%2C175
+  TOO MUCH: raises a flop bet -- 27% (3/11) vs table 9%
+    EXPLOIT: their flop raises come often: keep strong made hands and re-raise them
+    EVIDENCE: #48 #120 #167
+    SEARCH: explore.html#r=Sadzorla%7Cfacedf%7C0&r=Sadzorla%7Craisef%7C0&hands=48%2C120%2C167
+  TOO MUCH: limps when first in -- 32% (6/19) vs table 14%
+    EXPLOIT: raise their limps in position
+    EVIDENCE: #16 #20 #48 #61 #128 #189
+    SEARCH: explore.html#r=Sadzorla%7Cfirstin%7C0&r=Sadzorla%7Climp%7C0&hands=16%2C20%2C48%2C61%2C128%2C189
+
+Mr Lobster  (44 hands)
+----------------------
+  TOO LITTLE: opens when first in -- 0% (0/16) vs table 21%
+    EXPLOIT: their opens are tight; respect them and 3-bet only for value
+    EVIDENCE: #4 #7 #24 #33 #38 #98 (+10 more)
+    SEARCH: explore.html#r=Mr+Lobster%7Cfirstin%7C0&r=Mr+Lobster%7Copen%7C1&hands=4%2C7%2C24%2C33%2C38%2C98%2C101%2C123%2C126%2C135%2C149%2C154%2C163%2C167%2C192%2C195
+
+WhaleBait69  (44 hands)
+-----------------------
+  TOO MUCH: folds to a flop bet -- 79% (11/14) vs table 56%
+    EXPLOIT: bet flops at them whenever checked to; they fold
+    EVIDENCE: #97 #108 #118 #133 #148 #159 (+5 more)
+    SEARCH: explore.html#r=WhaleBait69%7Cfacedf%7C0&r=WhaleBait69%7Cfoldf%7C0&hands=97%2C108%2C118%2C133%2C148%2C159%2C166%2C177%2C182%2C200%2C254
+
+Oleboy  (43 hands)
+------------------
+  TOO MUCH: 3-bets an open -- 29% (4/14) vs table 6%
+    EXPLOIT: 4-bet them lighter and call their 3-bets with playable hands
+    EVIDENCE: #160 #164 #207 #225
+    SEARCH: explore.html#r=Oleboy%7Cvsopen%7C0&r=Oleboy%7C3bet%7C0&hands=160%2C164%2C207%2C225
+  TOO MUCH: opens when first in -- 33% (7/21) vs table 20%
+    EXPLOIT: 3-bet them wider; their opens are frequent
+    EVIDENCE: #136 #153 #187 #221 #238 #241 (+1 more)
+    SEARCH: explore.html#r=Oleboy%7Cfirstin%7C0&r=Oleboy%7Copen%7C0&hands=136%2C153%2C187%2C221%2C238%2C241%2C267
+
+Booyakasha  (42 hands)
+----------------------
+  TOO LITTLE: opens when first in -- 5% (1/22) vs table 21%
+    EXPLOIT: their opens are tight; respect them and 3-bet only for value
+    EVIDENCE: #4 #7 #10 #16 #38 #44 (+15 more)
+    SEARCH: explore.html#r=Booyakasha%7Cfirstin%7C0&r=Booyakasha%7Copen%7C1&hands=4%2C7%2C10%2C16%2C38%2C44%2C48%2C75%2C80%2C98%2C101%2C104%2C110%2C123%2C126%2C135%2C138%2C141%2C167%2C170%2C175
+
+Flawski101  (33 hands)
+----------------------
+  TOO MUCH: cold-calls an open -- 58% (7/12) vs table 27%
+    EXPLOIT: isolate bigger; they call opens too often and play a wide, capped range postflop
+    EVIDENCE: #71 #78 #94 #125 #146 #155 (+1 more)
+    SEARCH: explore.html#r=Flawski101%7Cvsopen%7C0&r=Flawski101%7Ccoldcall%7C0&hands=71%2C78%2C94%2C125%2C146%2C155%2C180
+  TOO MUCH: limps when first in -- 42% (5/12) vs table 14%
+    EXPLOIT: raise their limps in position
+    EVIDENCE: #53 #91 #99 #113 #152
+    SEARCH: explore.html#r=Flawski101%7Cfirstin%7C0&r=Flawski101%7Climp%7C0&hands=53%2C91%2C99%2C113%2C152
+  TOO MUCH: leads into the preflop raiser on the flop -- 30% (3/10) vs table 6%
+    EXPLOIT: their leads into the raiser are a range, not the nuts: raise them
+    EVIDENCE: #71 #91 #94
+    SEARCH: explore.html#r=Flawski101%7Csawf%7C0&r=Flawski101%7Cpfa%7C1&r=%7Cpfa%7C0&r=Flawski101%7Cdonkf%7C0&hands=71%2C91%2C94
+
+Dr Nick Riviera  (26 hands)
+---------------------------
+  (no leak clears the bar at this sample size)
+

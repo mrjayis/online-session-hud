@@ -1,0 +1,1902 @@
+{
+ "Forgivenofmy...": {
+  "hands": 7,
+  "vpip": 85.7,
+  "pfr": 57.1,
+  "threebet": 0.0,
+  "af": 2.0,
+  "af_counts": [
+   2,
+   1
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 71.4,
+  "wtsd": 60.0,
+  "wsd": 0.0,
+  "wins": 2,
+  "allins": 0,
+  "net": -231,
+  "biggest_win": 332,
+  "limp": 14.3,
+  "rfi": {
+   "BU": [
+    1,
+    1
+   ],
+   "CO": [
+    1,
+    1
+   ],
+   "UG": [
+    1,
+    1
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": null,
+  "coldcall_opp": 0,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 100.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "Downswingdr": {
+  "hands": 253,
+  "vpip": 24.1,
+  "pfr": 11.5,
+  "threebet": 4.9,
+  "af": 1.72,
+  "af_counts": [
+   31,
+   18
+  ],
+  "cbet": 33.3,
+  "saw_flop_pct": 25.7,
+  "wtsd": 35.4,
+  "wsd": 39.1,
+  "wins": 28,
+  "allins": 0,
+  "net": -1082.04,
+  "biggest_win": 516.96,
+  "limp": 6.3,
+  "rfi": {
+   "+1": [
+    1,
+    7
+   ],
+   "BU": [
+    4,
+    16
+   ],
+   "CO": [
+    3,
+    19
+   ],
+   "HJ": [
+    4,
+    26
+   ],
+   "SB": [
+    3,
+    12
+   ],
+   "UG": [
+    1,
+    30
+   ]
+  },
+  "f3b": 25.0,
+  "f3b_opp": 4,
+  "coldcall": 21.3,
+  "coldcall_opp": 75,
+  "fold_bb_steal": 72.7,
+  "fold_bb_steal_opp": 11,
+  "xr_flop": 6.2,
+  "xr_flop_opp": 16,
+  "fold_cbet_hu": 20.0,
+  "fold_cbet_hu_opp": 5
+ },
+ "Poker769": {
+  "hands": 58,
+  "vpip": 34.5,
+  "pfr": 20.7,
+  "threebet": 6.2,
+  "af": 1.25,
+  "af_counts": [
+   10,
+   8
+  ],
+  "cbet": 44.4,
+  "saw_flop_pct": 34.5,
+  "wtsd": 40.0,
+  "wsd": 37.5,
+  "wins": 10,
+  "allins": 0,
+  "net": -211.92,
+  "biggest_win": 330,
+  "limp": 6.9,
+  "rfi": {
+   "+1": [
+    1,
+    1
+   ],
+   "BU": [
+    2,
+    2
+   ],
+   "CO": [
+    2,
+    6
+   ],
+   "HJ": [
+    2,
+    7
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    2,
+    7
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 17.6,
+  "coldcall_opp": 17,
+  "fold_bb_steal": 66.7,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 4,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Hydration": {
+  "hands": 7,
+  "vpip": 28.6,
+  "pfr": 28.6,
+  "threebet": 20.0,
+  "af": 0.0,
+  "af_counts": [
+   0,
+   1
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 28.6,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 0,
+  "allins": 0,
+  "net": -296,
+  "biggest_win": 0,
+  "limp": 0.0,
+  "rfi": {
+   "CO": [
+    1,
+    1
+   ],
+   "UG": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 0.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "ryl775": {
+  "hands": 116,
+  "vpip": 22.4,
+  "pfr": 9.5,
+  "threebet": 3.8,
+  "af": 3.0,
+  "af_counts": [
+   9,
+   3
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 20.7,
+  "wtsd": 29.2,
+  "wsd": 57.1,
+  "wins": 12,
+  "allins": 4,
+  "net": 190.12,
+  "biggest_win": 552,
+  "limp": 5.2,
+  "rfi": {
+   "+1": [
+    0,
+    4
+   ],
+   "BU": [
+    0,
+    6
+   ],
+   "CO": [
+    0,
+    7
+   ],
+   "HJ": [
+    3,
+    11
+   ],
+   "SB": [
+    0,
+    5
+   ],
+   "UG": [
+    3,
+    15
+   ]
+  },
+  "f3b": 50.0,
+  "f3b_opp": 2,
+  "coldcall": 16.3,
+  "coldcall_opp": 43,
+  "fold_bb_steal": 66.7,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 12,
+  "fold_cbet_hu": 50.0,
+  "fold_cbet_hu_opp": 4
+ },
+ "YouGotGot2": {
+  "hands": 7,
+  "vpip": 14.3,
+  "pfr": 0.0,
+  "threebet": 0.0,
+  "af": null,
+  "af_counts": [
+   2,
+   0
+  ],
+  "cbet": null,
+  "saw_flop_pct": 14.3,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 1,
+  "allins": 0,
+  "net": 176,
+  "biggest_win": 360,
+  "limp": 0.0,
+  "rfi": {
+   "+1": [
+    0,
+    1
+   ],
+   "HJ": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 50.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "ThePacMan": {
+  "hands": 66,
+  "vpip": 21.2,
+  "pfr": 3.0,
+  "threebet": 0.0,
+  "af": 0.67,
+  "af_counts": [
+   4,
+   6
+  ],
+  "cbet": null,
+  "saw_flop_pct": 18.2,
+  "wtsd": 41.7,
+  "wsd": 20.0,
+  "wins": 2,
+  "allins": 1,
+  "net": -1253.92,
+  "biggest_win": 39,
+  "limp": 10.6,
+  "rfi": {
+   "+1": [
+    0,
+    5
+   ],
+   "BU": [
+    0,
+    3
+   ],
+   "CO": [
+    0,
+    5
+   ],
+   "HJ": [
+    1,
+    7
+   ],
+   "SB": [
+    0,
+    3
+   ],
+   "UG": [
+    1,
+    7
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 2,
+  "coldcall": 15.8,
+  "coldcall_opp": 19,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 4,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 2,
+  "fold_cbet_hu": 100.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "Dr Nick Riviera": {
+  "hands": 26,
+  "vpip": 26.9,
+  "pfr": 11.5,
+  "threebet": 5.9,
+  "af": 1.25,
+  "af_counts": [
+   5,
+   4
+  ],
+  "cbet": 66.7,
+  "saw_flop_pct": 26.9,
+  "wtsd": 42.9,
+  "wsd": 66.7,
+  "wins": 3,
+  "allins": 0,
+  "net": 450,
+  "biggest_win": 546,
+  "limp": 3.8,
+  "rfi": {
+   "BU": [
+    1,
+    2
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    1,
+    3
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    3
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 30.0,
+  "coldcall_opp": 10,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "Lia Park": {
+  "hands": 7,
+  "vpip": 28.6,
+  "pfr": 14.3,
+  "threebet": 0.0,
+  "af": null,
+  "af_counts": [
+   0,
+   0
+  ],
+  "cbet": null,
+  "saw_flop_pct": 14.3,
+  "wtsd": 100.0,
+  "wsd": 100.0,
+  "wins": 2,
+  "allins": 1,
+  "net": 207,
+  "biggest_win": 393,
+  "limp": 0.0,
+  "rfi": {
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 0.0,
+  "coldcall_opp": 1,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 100.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "Sadzorla": {
+  "hands": 46,
+  "vpip": 45.7,
+  "pfr": 10.9,
+  "threebet": 3.0,
+  "af": 1.56,
+  "af_counts": [
+   14,
+   9
+  ],
+  "cbet": 80.0,
+  "saw_flop_pct": 39.1,
+  "wtsd": 33.3,
+  "wsd": 50.0,
+  "wins": 10,
+  "allins": 0,
+  "net": 675.2,
+  "biggest_win": 812,
+  "limp": 21.7,
+  "rfi": {
+   "+1": [
+    1,
+    2
+   ],
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    1,
+    3
+   ],
+   "HJ": [
+    0,
+    4
+   ],
+   "SB": [
+    0,
+    2
+   ],
+   "UG": [
+    0,
+    6
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 45.5,
+  "coldcall_opp": 11,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 33.3,
+  "xr_flop_opp": 6,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 4
+ },
+ "Booyakasha": {
+  "hands": 42,
+  "vpip": 21.4,
+  "pfr": 7.1,
+  "threebet": 6.2,
+  "af": 1.33,
+  "af_counts": [
+   4,
+   3
+  ],
+  "cbet": 66.7,
+  "saw_flop_pct": 28.6,
+  "wtsd": 41.7,
+  "wsd": 40.0,
+  "wins": 5,
+  "allins": 3,
+  "net": 255.16,
+  "biggest_win": 323.6,
+  "limp": 9.5,
+  "rfi": {
+   "+1": [
+    0,
+    5
+   ],
+   "BU": [
+    1,
+    2
+   ],
+   "CO": [
+    0,
+    3
+   ],
+   "HJ": [
+    0,
+    5
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    6
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 14.3,
+  "coldcall_opp": 7,
+  "fold_bb_steal": 50.0,
+  "fold_bb_steal_opp": 2,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 2,
+  "fold_cbet_hu": 50.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "MacPoker1151": {
+  "hands": 24,
+  "vpip": 45.8,
+  "pfr": 37.5,
+  "threebet": 0.0,
+  "af": 5.0,
+  "af_counts": [
+   5,
+   1
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 41.7,
+  "wtsd": 30.0,
+  "wsd": 33.3,
+  "wins": 2,
+  "allins": 1,
+  "net": -638,
+  "biggest_win": 519,
+  "limp": 0.0,
+  "rfi": {
+   "+1": [
+    1,
+    2
+   ],
+   "BU": [
+    1,
+    2
+   ],
+   "CO": [
+    1,
+    3
+   ],
+   "HJ": [
+    1,
+    3
+   ],
+   "UG": [
+    1,
+    4
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 2,
+  "coldcall": 25.0,
+  "coldcall_opp": 4,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 100.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "OMGNFD": {
+  "hands": 13,
+  "vpip": 30.8,
+  "pfr": 15.4,
+  "threebet": 20.0,
+  "af": null,
+  "af_counts": [
+   2,
+   0
+  ],
+  "cbet": 100.0,
+  "saw_flop_pct": 23.1,
+  "wtsd": 33.3,
+  "wsd": 100.0,
+  "wins": 2,
+  "allins": 0,
+  "net": 253.64,
+  "biggest_win": 260.64,
+  "limp": 15.4,
+  "rfi": {
+   "+1": [
+    0,
+    1
+   ],
+   "BU": [
+    0,
+    2
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    0,
+    2
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    2
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 0.0,
+  "coldcall_opp": 3,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Mr Lobster": {
+  "hands": 44,
+  "vpip": 20.5,
+  "pfr": 9.1,
+  "threebet": 3.1,
+  "af": 2.33,
+  "af_counts": [
+   7,
+   3
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 18.2,
+  "wtsd": 25.0,
+  "wsd": 0.0,
+  "wins": 5,
+  "allins": 1,
+  "net": -333,
+  "biggest_win": 186,
+  "limp": 6.8,
+  "rfi": {
+   "+1": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 100.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Legend3412": {
+  "hands": 96,
+  "vpip": 72.9,
+  "pfr": 14.6,
+  "threebet": 5.2,
+  "af": 1.48,
+  "af_counts": [
+   34,
+   23
+  ],
+  "cbet": 36.4,
+  "saw_flop_pct": 72.9,
+  "wtsd": 40.0,
+  "wsd": 39.3,
+  "wins": 28,
+  "allins": 6,
+  "net": -414.23,
+  "biggest_win": 399,
+  "limp": 31.2,
+  "rfi": {
+   "BU": [
+    2,
+    9
+   ],
+   "CO": [
+    0,
+    6
+   ],
+   "HJ": [
+    3,
+    14
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    2,
+    9
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 4,
+  "coldcall": 89.7,
+  "coldcall_opp": 29,
+  "fold_bb_steal": 20.0,
+  "fold_bb_steal_opp": 5,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 19,
+  "fold_cbet_hu": 45.5,
+  "fold_cbet_hu_opp": 11
+ },
+ "Nazreads": {
+  "hands": 63,
+  "vpip": 42.9,
+  "pfr": 22.2,
+  "threebet": 7.3,
+  "af": 5.33,
+  "af_counts": [
+   16,
+   3
+  ],
+  "cbet": 87.5,
+  "saw_flop_pct": 38.1,
+  "wtsd": 25.0,
+  "wsd": 66.7,
+  "wins": 11,
+  "allins": 1,
+  "net": 587.97,
+  "biggest_win": 1350,
+  "limp": 9.5,
+  "rfi": {
+   "BU": [
+    2,
+    3
+   ],
+   "CO": [
+    4,
+    5
+   ],
+   "HJ": [
+    3,
+    11
+   ],
+   "SB": [
+    1,
+    2
+   ],
+   "UG": [
+    0,
+    8
+   ]
+  },
+  "f3b": 40.0,
+  "f3b_opp": 5,
+  "coldcall": 29.2,
+  "coldcall_opp": 24,
+  "fold_bb_steal": 33.3,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 5,
+  "fold_cbet_hu": 66.7,
+  "fold_cbet_hu_opp": 3
+ },
+ "KerryLu": {
+  "hands": 85,
+  "vpip": 22.4,
+  "pfr": 11.8,
+  "threebet": 6.0,
+  "af": 1.25,
+  "af_counts": [
+   10,
+   8
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 24.7,
+  "wtsd": 47.6,
+  "wsd": 70.0,
+  "wins": 13,
+  "allins": 3,
+  "net": 57,
+  "biggest_win": 205,
+  "limp": 10.6,
+  "rfi": {
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    1,
+    3
+   ],
+   "HJ": [
+    3,
+    6
+   ],
+   "SB": [
+    1,
+    2
+   ],
+   "UG": [
+    1,
+    6
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 0.0,
+  "coldcall_opp": 21,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 4,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 7,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "SHADOWMO..": {
+  "hands": 23,
+  "vpip": 60.9,
+  "pfr": 30.4,
+  "threebet": 0.0,
+  "af": 2.0,
+  "af_counts": [
+   8,
+   4
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 60.9,
+  "wtsd": 21.4,
+  "wsd": 66.7,
+  "wins": 5,
+  "allins": 0,
+  "net": 102,
+  "biggest_win": 348,
+  "limp": 0.0,
+  "rfi": {
+   "BU": [
+    1,
+    2
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    3,
+    4
+   ],
+   "UG": [
+    2,
+    3
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 3,
+  "coldcall": 77.8,
+  "coldcall_opp": 9,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 6,
+  "fold_cbet_hu": 50.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "how muchie": {
+  "hands": 56,
+  "vpip": 30.4,
+  "pfr": 10.7,
+  "threebet": 2.7,
+  "af": 3.5,
+  "af_counts": [
+   7,
+   2
+  ],
+  "cbet": 33.3,
+  "saw_flop_pct": 33.9,
+  "wtsd": 15.8,
+  "wsd": 33.3,
+  "wins": 5,
+  "allins": 0,
+  "net": -143,
+  "biggest_win": 39,
+  "limp": 12.5,
+  "rfi": {
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    1,
+    4
+   ],
+   "HJ": [
+    0,
+    5
+   ],
+   "SB": [
+    0,
+    3
+   ],
+   "UG": [
+    0,
+    4
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 18.2,
+  "coldcall_opp": 22,
+  "fold_bb_steal": 66.7,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 7,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "1stClassANA": {
+  "hands": 10,
+  "vpip": 40.0,
+  "pfr": 20.0,
+  "threebet": 0.0,
+  "af": 1.0,
+  "af_counts": [
+   1,
+   1
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 40.0,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 1,
+  "allins": 0,
+  "net": -57,
+  "biggest_win": 14,
+  "limp": 20.0,
+  "rfi": {
+   "UG": [
+    1,
+    2
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 0.0,
+  "coldcall_opp": 1,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Admirigi": {
+  "hands": 8,
+  "vpip": 75.0,
+  "pfr": 25.0,
+  "threebet": 0.0,
+  "af": null,
+  "af_counts": [
+   2,
+   0
+  ],
+  "cbet": null,
+  "saw_flop_pct": 50.0,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 3,
+  "allins": 0,
+  "net": -13,
+  "biggest_win": 63,
+  "limp": 25.0,
+  "rfi": {
+   "CO": [
+    1,
+    1
+   ],
+   "HJ": [
+    0,
+    2
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 100.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "LandShark98": {
+  "hands": 14,
+  "vpip": 42.9,
+  "pfr": 7.1,
+  "threebet": 12.5,
+  "af": null,
+  "af_counts": [
+   4,
+   0
+  ],
+  "cbet": 100.0,
+  "saw_flop_pct": 42.9,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 4,
+  "allins": 0,
+  "net": 38,
+  "biggest_win": 63,
+  "limp": 35.7,
+  "rfi": {
+   "BU": [
+    0,
+    2
+   ],
+   "CO": [
+    0,
+    3
+   ],
+   "HJ": [
+    0,
+    1
+   ],
+   "SB": [
+    0,
+    2
+   ],
+   "UG": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 33.3,
+  "coldcall_opp": 3,
+  "fold_bb_steal": 50.0,
+  "fold_bb_steal_opp": 2,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Flawski101": {
+  "hands": 33,
+  "vpip": 63.6,
+  "pfr": 12.1,
+  "threebet": 0.0,
+  "af": 2.29,
+  "af_counts": [
+   16,
+   7
+  ],
+  "cbet": 66.7,
+  "saw_flop_pct": 63.6,
+  "wtsd": 33.3,
+  "wsd": 42.9,
+  "wins": 10,
+  "allins": 1,
+  "net": 87,
+  "biggest_win": 260,
+  "limp": 30.3,
+  "rfi": {
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    1,
+    2
+   ],
+   "HJ": [
+    1,
+    3
+   ],
+   "SB": [
+    0,
+    2
+   ],
+   "UG": [
+    1,
+    4
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 58.3,
+  "coldcall_opp": 12,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 2,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 2,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "konar": {
+  "hands": 54,
+  "vpip": 29.6,
+  "pfr": 18.5,
+  "threebet": 0.0,
+  "af": 0.75,
+  "af_counts": [
+   9,
+   12
+  ],
+  "cbet": 40.0,
+  "saw_flop_pct": 35.2,
+  "wtsd": 47.4,
+  "wsd": 66.7,
+  "wins": 15,
+  "allins": 1,
+  "net": 1431.64,
+  "biggest_win": 1729,
+  "limp": 5.6,
+  "rfi": {
+   "BU": [
+    3,
+    3
+   ],
+   "CO": [
+    1,
+    1
+   ],
+   "SB": [
+    4,
+    4
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 3,
+  "coldcall": 37.5,
+  "coldcall_opp": 8,
+  "fold_bb_steal": 75.0,
+  "fold_bb_steal_opp": 4,
+  "xr_flop": 33.3,
+  "xr_flop_opp": 3,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "TurkishNM": {
+  "hands": 12,
+  "vpip": 58.3,
+  "pfr": 16.7,
+  "threebet": 0.0,
+  "af": null,
+  "af_counts": [
+   4,
+   0
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 58.3,
+  "wtsd": 28.6,
+  "wsd": 50.0,
+  "wins": 3,
+  "allins": 1,
+  "net": 454,
+  "biggest_win": 836,
+  "limp": 16.7,
+  "rfi": {
+   "+1": [
+    1,
+    1
+   ],
+   "CO": [
+    1,
+    1
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    2
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 50.0,
+  "coldcall_opp": 4,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "loquieroya": {
+  "hands": 87,
+  "vpip": 24.1,
+  "pfr": 18.4,
+  "threebet": 6.2,
+  "af": 2.0,
+  "af_counts": [
+   10,
+   5
+  ],
+  "cbet": 41.7,
+  "saw_flop_pct": 24.1,
+  "wtsd": 23.8,
+  "wsd": 60.0,
+  "wins": 13,
+  "allins": 2,
+  "net": -135.53,
+  "biggest_win": 713.88,
+  "limp": 3.4,
+  "rfi": {
+   "BU": [
+    3,
+    6
+   ],
+   "CO": [
+    3,
+    9
+   ],
+   "HJ": [
+    5,
+    11
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    1,
+    11
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 2,
+  "coldcall": 6.1,
+  "coldcall_opp": 33,
+  "fold_bb_steal": 66.7,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 20.0,
+  "xr_flop_opp": 5,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "WhaleBait69": {
+  "hands": 44,
+  "vpip": 47.7,
+  "pfr": 4.5,
+  "threebet": 4.2,
+  "af": 9.0,
+  "af_counts": [
+   9,
+   1
+  ],
+  "cbet": 100.0,
+  "saw_flop_pct": 50.0,
+  "wtsd": 9.1,
+  "wsd": 50.0,
+  "wins": 6,
+  "allins": 0,
+  "net": 501.97,
+  "biggest_win": 852.94,
+  "limp": 27.3,
+  "rfi": {
+   "BU": [
+    0,
+    3
+   ],
+   "CO": [
+    0,
+    2
+   ],
+   "HJ": [
+    0,
+    2
+   ],
+   "SB": [
+    1,
+    1
+   ],
+   "UG": [
+    0,
+    5
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 37.5,
+  "coldcall_opp": 16,
+  "fold_bb_steal": 20.0,
+  "fold_bb_steal_opp": 5,
+  "xr_flop": 11.1,
+  "xr_flop_opp": 9,
+  "fold_cbet_hu": 66.7,
+  "fold_cbet_hu_opp": 3
+ },
+ "Bad Meat": {
+  "hands": 17,
+  "vpip": 47.1,
+  "pfr": 17.6,
+  "threebet": 0.0,
+  "af": 2.5,
+  "af_counts": [
+   5,
+   2
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 52.9,
+  "wtsd": 22.2,
+  "wsd": 50.0,
+  "wins": 5,
+  "allins": 0,
+  "net": 124.78,
+  "biggest_win": 319.56,
+  "limp": 23.5,
+  "rfi": {
+   "BU": [
+    3,
+    3
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    0,
+    2
+   ],
+   "UG": [
+    0,
+    3
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 100.0,
+  "coldcall_opp": 1,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 20.0,
+  "xr_flop_opp": 5,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "ValleyArm5048": {
+  "hands": 24,
+  "vpip": 50.0,
+  "pfr": 41.7,
+  "threebet": 0.0,
+  "af": 3.5,
+  "af_counts": [
+   7,
+   2
+  ],
+  "cbet": 60.0,
+  "saw_flop_pct": 29.2,
+  "wtsd": 14.3,
+  "wsd": 100.0,
+  "wins": 8,
+  "allins": 0,
+  "net": 88,
+  "biggest_win": 134,
+  "limp": 4.2,
+  "rfi": {
+   "+1": [
+    1,
+    2
+   ],
+   "BU": [
+    2,
+    2
+   ],
+   "CO": [
+    1,
+    2
+   ],
+   "HJ": [
+    2,
+    3
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    2
+   ]
+  },
+  "f3b": 100.0,
+  "f3b_opp": 2,
+  "coldcall": 20.0,
+  "coldcall_opp": 5,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Blanco Basura": {
+  "hands": 19,
+  "vpip": 10.5,
+  "pfr": 0.0,
+  "threebet": 0.0,
+  "af": 1.0,
+  "af_counts": [
+   1,
+   1
+  ],
+  "cbet": null,
+  "saw_flop_pct": 15.8,
+  "wtsd": 33.3,
+  "wsd": 100.0,
+  "wins": 2,
+  "allins": 0,
+  "net": 12,
+  "biggest_win": 47,
+  "limp": 5.3,
+  "rfi": {
+   "+1": [
+    0,
+    3
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "HJ": [
+    0,
+    2
+   ],
+   "UG": [
+    0,
+    2
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 20.0,
+  "coldcall_opp": 5,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "Oleboy": {
+  "hands": 43,
+  "vpip": 37.2,
+  "pfr": 30.2,
+  "threebet": 20.0,
+  "af": 3.5,
+  "af_counts": [
+   7,
+   2
+  ],
+  "cbet": 57.1,
+  "saw_flop_pct": 34.9,
+  "wtsd": 13.3,
+  "wsd": 50.0,
+  "wins": 9,
+  "allins": 1,
+  "net": -241.44,
+  "biggest_win": 926.12,
+  "limp": 2.3,
+  "rfi": {
+   "+1": [
+    0,
+    1
+   ],
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    3,
+    7
+   ],
+   "HJ": [
+    1,
+    5
+   ],
+   "SB": [
+    1,
+    2
+   ],
+   "UG": [
+    2,
+    5
+   ]
+  },
+  "f3b": 33.3,
+  "f3b_opp": 3,
+  "coldcall": 15.4,
+  "coldcall_opp": 13,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 20.0,
+  "xr_flop_opp": 5,
+  "fold_cbet_hu": 50.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "Hijacks": {
+  "hands": 23,
+  "vpip": 91.3,
+  "pfr": 8.7,
+  "threebet": 6.7,
+  "af": 1.9,
+  "af_counts": [
+   19,
+   10
+  ],
+  "cbet": 100.0,
+  "saw_flop_pct": 91.3,
+  "wtsd": 52.4,
+  "wsd": 36.4,
+  "wins": 8,
+  "allins": 4,
+  "net": -1013.88,
+  "biggest_win": 518,
+  "limp": 43.5,
+  "rfi": {
+   "BU": [
+    0,
+    4
+   ],
+   "CO": [
+    0,
+    2
+   ],
+   "HJ": [
+    0,
+    3
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    1,
+    2
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 100.0,
+  "coldcall_opp": 9,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 3,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 4,
+  "fold_cbet_hu": 50.0,
+  "fold_cbet_hu_opp": 2
+ },
+ "BeastlyOne": {
+  "hands": 21,
+  "vpip": 19.0,
+  "pfr": 19.0,
+  "threebet": 7.7,
+  "af": 3.0,
+  "af_counts": [
+   3,
+   1
+  ],
+  "cbet": 100.0,
+  "saw_flop_pct": 19.0,
+  "wtsd": 50.0,
+  "wsd": 0.0,
+  "wins": 4,
+  "allins": 1,
+  "net": -398.44,
+  "biggest_win": 14,
+  "limp": 0.0,
+  "rfi": {
+   "BU": [
+    1,
+    1
+   ],
+   "CO": [
+    0,
+    1
+   ],
+   "SB": [
+    1,
+    1
+   ],
+   "UG": [
+    1,
+    1
+   ]
+  },
+  "f3b": 50.0,
+  "f3b_opp": 2,
+  "coldcall": 0.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 2,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "ForestFace62..": {
+  "hands": 15,
+  "vpip": 20.0,
+  "pfr": 13.3,
+  "threebet": 0.0,
+  "af": 0.5,
+  "af_counts": [
+   1,
+   2
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 26.7,
+  "wtsd": 75.0,
+  "wsd": 100.0,
+  "wins": 3,
+  "allins": 0,
+  "net": 93,
+  "biggest_win": 156,
+  "limp": 0.0,
+  "rfi": {
+   "CO": [
+    2,
+    2
+   ],
+   "HJ": [
+    0,
+    3
+   ],
+   "UG": [
+    0,
+    3
+   ]
+  },
+  "f3b": 100.0,
+  "f3b_opp": 1,
+  "coldcall": 33.3,
+  "coldcall_opp": 3,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 0.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "Thrtysvn": {
+  "hands": 11,
+  "vpip": 45.5,
+  "pfr": 18.2,
+  "threebet": 14.3,
+  "af": null,
+  "af_counts": [
+   2,
+   0
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 54.5,
+  "wtsd": 33.3,
+  "wsd": 0.0,
+  "wins": 0,
+  "allins": 0,
+  "net": -157,
+  "biggest_win": 0,
+  "limp": 0.0,
+  "rfi": {
+   "HJ": [
+    0,
+    1
+   ],
+   "SB": [
+    1,
+    1
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 100.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "WillyWonka69": {
+  "hands": 11,
+  "vpip": 45.5,
+  "pfr": 9.1,
+  "threebet": 0.0,
+  "af": 0.5,
+  "af_counts": [
+   1,
+   2
+  ],
+  "cbet": 0.0,
+  "saw_flop_pct": 45.5,
+  "wtsd": 40.0,
+  "wsd": 100.0,
+  "wins": 3,
+  "allins": 1,
+  "net": 342.84,
+  "biggest_win": 541.76,
+  "limp": 18.2,
+  "rfi": {
+   "BU": [
+    0,
+    1
+   ],
+   "CO": [
+    0,
+    2
+   ],
+   "HJ": [
+    1,
+    1
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    2
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 33.3,
+  "coldcall_opp": 3,
+  "fold_bb_steal": 100.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 2,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "TwoKiss": {
+  "hands": 11,
+  "vpip": 45.5,
+  "pfr": 18.2,
+  "threebet": 0.0,
+  "af": 3.0,
+  "af_counts": [
+   3,
+   1
+  ],
+  "cbet": 50.0,
+  "saw_flop_pct": 45.5,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 3,
+  "allins": 0,
+  "net": 135,
+  "biggest_win": 133,
+  "limp": 9.1,
+  "rfi": {
+   "BU": [
+    1,
+    1
+   ],
+   "HJ": [
+    1,
+    2
+   ],
+   "SB": [
+    0,
+    1
+   ],
+   "UG": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 33.3,
+  "coldcall_opp": 3,
+  "fold_bb_steal": null,
+  "fold_bb_steal_opp": 0,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 2,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ },
+ "FoilQuester54..": {
+  "hands": 4,
+  "vpip": 75.0,
+  "pfr": 0.0,
+  "threebet": 33.3,
+  "af": 0.5,
+  "af_counts": [
+   1,
+   2
+  ],
+  "cbet": null,
+  "saw_flop_pct": 100.0,
+  "wtsd": 50.0,
+  "wsd": 50.0,
+  "wins": 1,
+  "allins": 2,
+  "net": -94.92,
+  "biggest_win": 127,
+  "limp": 0.0,
+  "rfi": {
+   "UG": [
+    0,
+    1
+   ]
+  },
+  "f3b": 0.0,
+  "f3b_opp": 1,
+  "coldcall": 100.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": 0.0,
+  "xr_flop_opp": 1,
+  "fold_cbet_hu": 100.0,
+  "fold_cbet_hu_opp": 1
+ },
+ "PLONoob": {
+  "hands": 3,
+  "vpip": 66.7,
+  "pfr": 0.0,
+  "threebet": 0.0,
+  "af": null,
+  "af_counts": [
+   1,
+   0
+  ],
+  "cbet": null,
+  "saw_flop_pct": 66.7,
+  "wtsd": 0.0,
+  "wsd": null,
+  "wins": 0,
+  "allins": 0,
+  "net": -20,
+  "biggest_win": 0,
+  "limp": 33.3,
+  "rfi": {
+   "SB": [
+    0,
+    1
+   ]
+  },
+  "f3b": null,
+  "f3b_opp": 0,
+  "coldcall": 50.0,
+  "coldcall_opp": 2,
+  "fold_bb_steal": 0.0,
+  "fold_bb_steal_opp": 1,
+  "xr_flop": null,
+  "xr_flop_opp": 0,
+  "fold_cbet_hu": null,
+  "fold_cbet_hu_opp": 0
+ }
+}
