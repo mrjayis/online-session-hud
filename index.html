@@ -14,16 +14,25 @@ a.card{display:block;background:var(--panel);border:1px solid var(--line);border
 a.card:hover{border-color:var(--accent)}
 a.card b{display:block}
 a.card span{color:var(--dim);font-size:13.5px}
+a.card em{font-style:normal;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+  color:#b26b00;border:1px solid currentColor;border-radius:4px;padding:1px 5px;margin-left:6px}
+details.beta{margin-top:28px}
+details.beta summary{cursor:pointer;color:var(--dim);font-size:14px;padding:6px 0}
+details.beta summary:hover{color:var(--accent)}
+details.beta p{font-size:13.5px;margin:6px 0 4px}
 </style>
 <main>
 <h1>ClubWPT 4-table session</h1>
 <p>253 hands · 6 tables · amounts in table chips · video clips need the original recording, so they play only on a local build</p>
-<a class="card" href="study.html"><b>Study hub</b><span>cheat sheet builder, dossiers, leak flags, postflop clip browser</span></a>
-<a class="card" href="player_exploits.html"><b>Exploit notes</b><span>automated reads per regular, with linked hand histories</span></a>
-<a class="card" href="player_leaks.html"><b>Leak finder</b><span>results-blind reads on the regulars, every one a hand-search frequency with cited hands</span></a>
 <a class="card" href="dashboard.html"><b>HUD dashboard</b><span>stats tables, charts, all 253 hand histories</span></a>
 <a class="card" href="replayer.html"><b>Hand replayer</b><span>step through any of the 253 hands in table chips; filter to a player's postflop hands</span></a>
 <a class="card" href="explore.html"><b>Hand search</b><span>find hands by texture and action; opens any result in the replayer</span></a>
 <a class="card" href="calculator.html"><b>PLO equity calculator</b><span>Monte Carlo equities, single and double board</span></a>
 <a class="card" href="player_ranges.json"><b>Player ranges → Range Analyzer</b><span>observed VPIP / open / 3bet / call ranges per player, for Import All</span></a>
+<details class="beta"><summary>Very beta</summary>
+<p>Automated reads on the regulars: generated, not yet reviewed against the video. Treat them as leads, not conclusions.</p>
+<a class="card" href="study.html"><b>Study hub <em>very beta</em></b><span>cheat sheet builder, dossiers, leak flags, postflop clip browser</span></a>
+<a class="card" href="player_exploits.html"><b>Exploit notes <em>very beta</em></b><span>automated reads per regular, with linked hand histories</span></a>
+<a class="card" href="player_leaks.html"><b>Leak finder <em>very beta</em></b><span>results-blind reads on the regulars, every one a hand-search frequency with cited hands</span></a>
+</details>
 </main>
